@@ -1,0 +1,5 @@
+Sala adm:pc 2|imp 2| pen 1
+biblioteca:pc 1| imp 0| pen 1
+sala prof:pc 2|imp 2| pen 1|ch 1
+sala de estudos:pc 1|imp 1
+total: pc 6|imp 5|pen 4 |ch 1
